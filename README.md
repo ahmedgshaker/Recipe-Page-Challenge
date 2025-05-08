@@ -6,7 +6,7 @@
 This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The goal was to build a responsive recipe page using HTML and CSS.
 
 ## Live Demo
-[View the live demo here](https://ahmedgshaker.github.io/Test3/)
+[View the live demo here]([https://ahmedgshaker.github.io/Recipe-Page-Challenge/])
 
 ## Features
 - Responsive design for mobile and desktop.
