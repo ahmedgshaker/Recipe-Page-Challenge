@@ -23,7 +23,7 @@ This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www
 - Learned how to optimize images for web.
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/ahmedgshaker/Test3.git`
+1. Clone the repository: `git clone https://ahmedgshaker.github.io/Recipe-Page-Challenge/`
 2. Open `index.html` in your browser.
 
 ## Acknowledgments
