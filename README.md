@@ -3,15 +3,15 @@
 ![Preview](./preview.jpg)
 
 ## Overview
-This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The goal was to build a responsive recipe page using HTML and CSS.
+This is my solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). I built a responsive recipe page using HTML and CSS.
 
 ## Live Demo
-[View the live demo here]([https://ahmedgshaker.github.io/Recipe-Page-Challenge/])
+[View the live demo here](https://ahmedgshaker.github.io/Recipe-Page-Challenge/)
 
 ## Features
 - Responsive design for mobile and desktop.
 - Clean and semantic HTML structure.
-- Styled with CSS (Flexbox/Grid, etc.).
+- Styled with CSS (Flexbox for layout).
 
 ## Technologies Used
 - HTML5
@@ -19,13 +19,9 @@ This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www
 
 ## What I Learned
 - Improved my skills in creating responsive layouts.
-- Practiced using CSS Flexbox/Grid for alignment.
-- Learned how to optimize images for web.
-
-## Setup
-1. Clone the repository: `git clone https://ahmedgshaker.github.io/Recipe-Page-Challenge/`
-2. Open `index.html` in your browser.
+- Practiced semantic HTML for better accessibility.
+- Learned to handle responsive typography and spacing.
 
 ## Acknowledgments
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io)
-- Coded by [Gemy]
+- Coded by Ahmed Gamal (Gemy)
